@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: (https://github.com/Raykingflamez/fylo-dark-theme-landing-page)
+- Live Site URL: (https://raykingflamez.github.io/fylo-dark-theme-landing-page/)
 
 ## My process
 
